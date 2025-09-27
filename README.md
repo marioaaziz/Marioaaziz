@@ -58,7 +58,7 @@ This portfolio highlights my **projects, professional experience, certifications
 - **Cloud:** AWS (EC2, EKS, S3, IAM, VPC), Azure Fundamentals  
 - **DevOps:** Docker, Kubernetes, Helm, Terraform, Jenkins, GitHub Actions  
 - **CI/CD & Monitoring:** SonarQube, Prometheus, Grafana, CloudWatch  
-- **Languages:** Python, Bash, Go, Java, SQL  
+- **Languages:** Python, Bash, Go, Java, SQL , C++ 
 - **Tools:** Git, Linux (Ubuntu), VS Code  
 
 ---
