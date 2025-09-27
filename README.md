@@ -21,14 +21,15 @@ This portfolio highlights selected **projects, certifications, and skills** that
 - Containerized frontend & backend apps and managed services using **docker-compose**.
   🔗 [View Repository]
 [https://github.com/marioaaziz/CI-CD-Project
-](https://github.com/marioaaziz/CI-CD-Project)---
+](https://github.com/marioaaziz/CI-CD-Project)
+---
 
 ### 3. AWS EKS Cluster with Terraform
 **Repo:** [AWS-EKS-Cluster-with-Terraform](https://github.com/marioaaziz/AWS-EKS-Cluster-with-Terraform)  
 **Tech:** Terraform • AWS (EKS, IAM, VPC, SG)  
 - Provisioned a **production-ready Kubernetes cluster on AWS EKS** using **Terraform modules**.  
 - Automated networking setup with **VPC, subnets, IAM roles, and security groups** for cluster and node group.  
-
+https://github.com/marioaaziz/AWS-EKS-Cluster-with-Terraform
 ---
 
 ### 4. Terraform AWS EC2 Webserver
@@ -36,14 +37,14 @@ This portfolio highlights selected **projects, certifications, and skills** that
 **Tech:** Terraform • AWS (EC2, VPC, Security Groups, Apache)  
 - Automated the creation of a **custom VPC**, public subnet, internet gateway, and route tables using **IaC**.  
 - Deployed an **Ubuntu EC2 instance** running
-
+https://github.com/marioaaziz/terraform-aws-ec2-webserver
 ---
 
 ## 🏢 Professional Experience
-- **DevOps Engineer – Emmanuel Inc. (2024-Present)**  
+- **IT Systems Technician – Emmanuel Inc. (Aug 2024-Present)**  
   Automated deployments using **Docker + Kubernetes**, provisioned **AWS infra with Terraform**, and improved observability with **Prometheus, Grafana, CloudWatch**.  
 
-- **Cloud Engineer – Guidepost Montessori (2023-2024)**  
+- **IT Support & Systems Coordinator – Guidepost Montessori (July 2023- August 2024)**  
   Migrated workloads to containers, codified AWS infrastructure, and built real-time dashboards for operational visibility.  
 
 ---
