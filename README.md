@@ -12,9 +12,7 @@ This portfolio highlights selected **projects, certifications, and skills** that
 - Developed a minimal HTTP service in **Go** and containerized it with multi-stage **Docker builds**.  
 - Automated CI/CD using **GitHub Actions**: builds, tests, runs **golangci-lint**, pushes image to Docker Hub, auto-updates Helm chart tags.  
 - Deployed on **AWS EKS** using **Helm charts** with NGINX/ALB ingress.  
-
-🔗 [View Repository]([https://github.com/marioaaziz/go-web-app](https://github.com/marioaaziz/go-web-app.git))
-
+  https://github.com/marioaaziz/go-web-app
 ---
 
 ### 2. CI/CD Pipeline – Jenkins & SonarQube
@@ -22,8 +20,8 @@ This portfolio highlights selected **projects, certifications, and skills** that
 - Built a **CI/CD pipeline** that pulls code from GitHub, runs static analysis via **SonarQube**, builds a Docker image, and deploys to a live server.  
 - Containerized frontend & backend apps and managed services using **docker-compose**.
   🔗 [View Repository]
-https://github.com/marioaaziz/CI-CD-Project
----
+[https://github.com/marioaaziz/CI-CD-Project
+](https://github.com/marioaaziz/CI-CD-Project)---
 
 ### 3. AWS EKS Cluster with Terraform
 **Repo:** [AWS-EKS-Cluster-with-Terraform](https://github.com/marioaaziz/AWS-EKS-Cluster-with-Terraform)  
