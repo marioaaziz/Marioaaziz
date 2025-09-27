@@ -64,7 +64,7 @@ This portfolio highlights my **projects, professional experience, certifications
 ---
 
 ## 📫 Connect
-- **LinkedIn:** [[linkedin.com/in/marioaziz](https://linkedin.com/in/marioaziz)  ](https://www.linkedin.com/in/marioaziz9/)
+- **LinkedIn:** [[linkedin.com/in/marioaziz](https://linkedin.com/in/marioaziz) 
 - **Email:** marioadel61@gmail.com  
 
 ---
