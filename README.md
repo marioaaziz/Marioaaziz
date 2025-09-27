@@ -5,7 +5,7 @@ This portfolio highlights selected **projects, certifications, and skills** that
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 1. Go Web App – Cloud-Native Deployment
 **Tech:** Go • Docker • Kubernetes (EKS) • Helm • GitHub Actions • AWS  
@@ -13,7 +13,7 @@ This portfolio highlights selected **projects, certifications, and skills** that
 - Automated CI/CD using **GitHub Actions**: builds, tests, runs **golangci-lint**, pushes image to Docker Hub, auto-updates Helm chart tags.  
 - Deployed on **AWS EKS** using **Helm charts** with NGINX/ALB ingress.  
 
-🔗 [View Repository](https://github.com/marioaaziz/go-web-app)
+🔗 [View Repository]([https://github.com/marioaaziz/go-web-app](https://github.com/marioaaziz/go-web-app.git))
 
 ---
 
